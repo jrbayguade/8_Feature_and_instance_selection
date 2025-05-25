@@ -1,0 +1,1 @@
+In this Jupyter (Python) I explore different methods for selecting or discarding features in a given dataset. Including ANOVA F-test, Recursive Feature Elimination (RFE), Linear Regression coefficients, Logistic Regression coefficients, Attribute Permutation with KNeighborsRegressor, correlation or p-value 
